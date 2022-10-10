@@ -1,0 +1,17 @@
+C:\Users\Oguz\source\repos\KardemirFormApplication\obj\Debug\net6.0-windows\KardemirFormApplication.csproj.AssemblyReference.cache
+C:\Users\Oguz\source\repos\KardemirFormApplication\obj\Debug\net6.0-windows\KardemirFormApplication.Form1.resources
+C:\Users\Oguz\source\repos\KardemirFormApplication\obj\Debug\net6.0-windows\KardemirFormApplication.csproj.GenerateResource.cache
+C:\Users\Oguz\source\repos\KardemirFormApplication\obj\Debug\net6.0-windows\KardemirFormApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oguz\source\repos\KardemirFormApplication\obj\Debug\net6.0-windows\KardemirFormApplication.AssemblyInfoInputs.cache
+C:\Users\Oguz\source\repos\KardemirFormApplication\obj\Debug\net6.0-windows\KardemirFormApplication.AssemblyInfo.cs
+C:\Users\Oguz\source\repos\KardemirFormApplication\obj\Debug\net6.0-windows\KardemirFormApplication.csproj.CoreCompileInputs.cache
+C:\Users\Oguz\source\repos\KardemirFormApplication\bin\Debug\net6.0-windows\KardemirFormApplication.exe
+C:\Users\Oguz\source\repos\KardemirFormApplication\bin\Debug\net6.0-windows\KardemirFormApplication.deps.json
+C:\Users\Oguz\source\repos\KardemirFormApplication\bin\Debug\net6.0-windows\KardemirFormApplication.runtimeconfig.json
+C:\Users\Oguz\source\repos\KardemirFormApplication\bin\Debug\net6.0-windows\KardemirFormApplication.dll
+C:\Users\Oguz\source\repos\KardemirFormApplication\bin\Debug\net6.0-windows\KardemirFormApplication.pdb
+C:\Users\Oguz\source\repos\KardemirFormApplication\obj\Debug\net6.0-windows\KardemirFormApplication.dll
+C:\Users\Oguz\source\repos\KardemirFormApplication\obj\Debug\net6.0-windows\refint\KardemirFormApplication.dll
+C:\Users\Oguz\source\repos\KardemirFormApplication\obj\Debug\net6.0-windows\KardemirFormApplication.pdb
+C:\Users\Oguz\source\repos\KardemirFormApplication\obj\Debug\net6.0-windows\KardemirFormApplication.genruntimeconfig.cache
+C:\Users\Oguz\source\repos\KardemirFormApplication\obj\Debug\net6.0-windows\ref\KardemirFormApplication.dll
